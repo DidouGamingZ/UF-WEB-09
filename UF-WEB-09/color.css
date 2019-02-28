@@ -1,0 +1,25 @@
+
+.prop {
+	background-color: black;
+	 color: white;
+	 margin: 20px;
+	 padding: 20px;
+
+}
+
+	  
+.prop a {
+	color:white;
+}
+
+.photo img {
+	margin-top: 10px;
+	margin-left: 10px;
+	border-radius: 5%;
+}
+
+
+.gradient_background {
+	background: linear-gradient(#23a6d5, #23d5ab);
+}
+

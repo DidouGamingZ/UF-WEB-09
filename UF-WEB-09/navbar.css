@@ -1,0 +1,87 @@
+header nav {
+	position: fixed;
+	width: 5000px;
+	background-color: #FEA200;
+	height: 100px;
+	margin-top: 0;
+}
+
+header nav ul {
+	margin: 0;
+	padding: 0px;
+}
+
+header nav ul {
+	display: inline-block;
+	height: 100%;
+}
+
+header nav ul li {
+	display: inline-flex;
+	align-items: center;
+	height: 100%;
+	float: left;
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: #00000033;
+	
+	
+
+}
+
+header nav ul li a {
+	display: flex;
+	align-items: center;
+	width: 100%;
+	height: 100%;
+	padding: 0 20px;
+	color: white;
+	text-decoration: none;
+	font-size: 1.2em;
+
+}
+
+
+
+
+header nav ul li:hover {
+	background-color: #00000015;
+	font-size: 1.5em;
+	transition: all 0.2s linear;
+}
+
+.espacevide {
+	height: 110px;
+	width: 100%;
+}
+
+.footer {
+	color: black;
+	margin-bottom: 5px;
+	align-items: center;
+}
+
+.CV img {
+	margin-left: 50px;
+}
+
+.back_dilan {
+	background-image: url("sq2.jpg");
+	background-size: cover;
+	background-color: rgba(255,255,255,0.5);
+	background-blend-mode: lighten;
+}
+
+.back_lucas {
+	background-image: url("djsnake.jpg");
+	background-size: cover;
+	background-color: rgba(255,255,255,0.5);
+	background-blend-mode: lighten;
+}
+
+.back_thomas {
+	background-image: url("Baltimore.jpg");
+	background-size: cover;
+	background-color: rgba(255,255,255,0.5);
+	background-blend-mode: lighten;
+}
